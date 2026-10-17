@@ -1,6 +1,5 @@
 # MG3
 ## Devlog
-Write your Devlog here.
 ### 1
 The default value for a float is "0.0", an int is "0", a bool is "false", and a string is "null".
 ### 2
